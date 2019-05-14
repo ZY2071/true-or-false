@@ -2,8 +2,8 @@
 验证传递过来的值，返回true 或者 false
 # Usage 
 ```shell
- npm i true-or-false
- ```
+npm i true-or-false
+```
 然后：
 ```javascript
 import test from "true-or-false"
