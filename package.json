@@ -1,0 +1,14 @@
+{
+  "name": "true-or-false",
+  "version": "0.0.1",
+  "description": "Test everything I got!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "true"
+  ],
+  "author": "zy_2071",
+  "license": "ISC"
+}
