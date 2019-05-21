@@ -1,4 +1,5 @@
 # true-or-false
+[![Build Status](https://travis-ci.org/ZY2071/true-or-false.svg?branch=master)](https://travis-ci.org/ZY2071/true-or-false)  
 验证传递过来的值，返回true 或者 false
 # Usage 
 ```shell
