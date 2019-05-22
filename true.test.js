@@ -21,6 +21,9 @@ test("Input 0 will return false", () => {
 test("Input undefined will return false", () => {
     expect(trueThe(undefined)).toBe(false);
 });
+test("Input NaN will return false", () => {
+    expect(trueThe(NaN)).toBe(false);
+});
 
 test("Input 1 will return true", () => {
     expect(trueThe(1)).toBe(true);
